@@ -34,7 +34,7 @@
 
 ## Featured Publication
 
-~~~bash
+~~~bibtex
 @article{hatayama2026nonlinear,
   title={Nonlinear causal relationship between separation bubbles and reflected shock wave in shock wave/turbulent boundary layer interaction based on information theory},
   author={Hatayama, Jun and Tanaka, Kento and Kouchi, Toshinori},
